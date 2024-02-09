@@ -3,6 +3,7 @@ public class Deploydemo {
         System.debug('workbench method demo for the deployment method');
         System.debug('workbench method deployment method');
         System.debug('Good morning');
+        System.debug('Good');
             }
 
 }
