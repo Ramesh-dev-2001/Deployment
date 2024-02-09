@@ -4,6 +4,8 @@ public class Deploydemo {
         System.debug('workbench method deployment method');
         System.debug('Good morning');
         System.debug('Good');
+        System.debug('Good Eve.......');
+
             }
 
 }
